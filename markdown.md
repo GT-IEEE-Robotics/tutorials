@@ -22,3 +22,16 @@
   code
   block
   ~~~~
+  
+  line
+  ---
+  
+|Table|Headers|
+---------------
+|Testing|Variables|
+-------------------
+  
+Dicionary Entry
+: this is a dictionary entry
+  
+  
