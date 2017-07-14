@@ -25,7 +25,7 @@ block
 
 ```python
 print("Hello World")
-print("This is syntax highlighting
+print("This is syntax highlighting")
 ```
   
 line
