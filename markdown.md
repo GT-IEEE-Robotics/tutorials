@@ -30,6 +30,8 @@
 |-----|-------|
 |Testing|Variables|
   
-Dicionary Entry
+Dictionary List
 : this is a dictionary entry
+
+Second Entry
 : this is another one  
