@@ -27,11 +27,9 @@
   ---
   
 |Table|Headers|
----------------
+|-----|-------|
 |Testing|Variables|
--------------------
   
 Dicionary Entry
 : this is a dictionary entry
-  
-  
+: this is another one  
