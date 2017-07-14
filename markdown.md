@@ -28,17 +28,19 @@ print("Hello World")
 print("This is syntax highlighting")
 ```
   
-line
+### Line
 ---
   
 |Table|Headers|
 |-----|-------|
 |Testing|Variables|
-  
+
 [Link](https://github.com/GaTech-IEEE-Hardware)
 
+### Image
 ![Image](https://www.w3schools.com/w3images/fjords.jpg)
 
+### Video
 [![Video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST7YDjHjnP5DURcPrZpcFPO6BI6I4kOiqTvNeCy4NRYFbA--5J)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
