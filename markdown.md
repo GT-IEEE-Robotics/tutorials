@@ -30,3 +30,6 @@
 |-----|-------|
 |Testing|Variables|
   
+[Link](https://github.com/GaTech-IEEE-Hardware)
+
+![Image](https://www.w3schools.com/w3images/fjords.jpg)
