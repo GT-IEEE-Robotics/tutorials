@@ -16,15 +16,20 @@
 - bullet point
   - indented
   
-  ~~~~
-  multiple
-  line
-  code
-  block
-  ~~~~
+~~~~
+multiple
+line
+code
+block
+~~~~
+
+```python
+print("Hello World")
+print("This is syntax highlighting
+```
   
-  line
-  ---
+line
+---
   
 |Table|Headers|
 |-----|-------|
@@ -33,3 +38,5 @@
 [Link](https://github.com/GaTech-IEEE-Hardware)
 
 ![Image](https://www.w3schools.com/w3images/fjords.jpg)
+
+
